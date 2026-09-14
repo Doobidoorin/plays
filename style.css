@@ -100,11 +100,7 @@ form input:focus{outline:none;border-color:var(--accent);}
   margin-bottom:14px;
 }
 .modal-footnote{color:var(--text-muted);font-size:12px;margin-top:14px;margin-bottom:0;}
-.login-brand{
-  font-weight:700;
-  font-family:'Mathematical Alphanumeric Symbols', 'Segoe UI Symbol', 'Apple Color Emoji', cursive;
-  font-style:italic;
-}
+.login-brand{font-weight:700;}
 .login-brand .brand-doobi{color:#ffffff;}
 .login-brand .brand-doorin{color:var(--brand-maroon);}
 .login-brand .brand-plays{color:#ffffff;}
@@ -118,13 +114,7 @@ form input:focus{outline:none;border-color:var(--accent);}
 .header-left{
   display:flex;align-items:center;gap:14px;
 }
-.brand{
-  font-weight:700;
-  font-size:18px;
-  letter-spacing:.2px;
-  font-family:'Mathematical Alphanumeric Symbols', 'Segoe UI Symbol', 'Apple Color Emoji', cursive;
-  font-style:italic;
-}
+.brand{font-weight:700;font-size:18px;letter-spacing:.2px;}
 .brand-doobi{color:#ffffff;}
 .brand-doorin{color:var(--brand-maroon);}
 .brand-plays{color:#ffffff;}
